@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhangeh5517@59.72.109.30:50088 password" deleteMissingItems="true">
+    <serverData>
+      <paths name="AliCloud_ESC_Eric">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/Eric/PyCham-Mappings/GCN" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@39.96.53.192:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/Eric/Python-code/GCN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@39.96.53.192:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangeh5517@59.72.109.30:50088 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/GCN_Code" local="$PROJECT_DIR$" web="http:///" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
